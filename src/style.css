@@ -1,0 +1,129 @@
+.flex {
+  display: flex;
+}
+
+.directionRow {
+  flex-direction: row;
+}
+
+.directionColumn {
+  flex-direction: column;
+}
+
+.flexBasis30 {
+  flex-basis: 20%
+}
+
+.flexBasis70 {
+  flex-basis: 80%
+}
+
+.backGroundGrey {
+  background-color: lightgray;
+}
+
+.marginRight10 {
+  margin-right: 10px;
+}
+
+.height100 {
+  height: 100%;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+.backgroundWhite {
+  background-color: white
+}
+
+.flexWrap {
+  flex-wrap: wrap;
+}
+
+.productBox {
+  height: 40%;
+  width: 28%;
+}
+
+.boldGreen {
+  font-weight: bolder;
+  color: green;
+}
+
+.marginProducts {
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 30px
+}
+
+.justifyProducts {
+  justify-content: space-around;
+}
+
+.marginTop10 {
+  margin-top: 10px;
+}
+
+.marginTop5 {
+  margin-top: 5px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.bottomMargin10 {
+  margin-bottom: 50px;
+}
+
+.lineThrough {
+  text-decoration: line-through;
+}
+
+.bolderFont {
+  font-weight: bolder;
+}
+
+.marginLeft10 {
+  margin-left: 10px;
+}
+
+.backGroundStar {
+  background-color: #388e3c;
+  width: 40px;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.justifyCenter {
+  justify-content: center;
+}
+
+.alignCenter {
+  align-items: center;
+}
+
+.checkoutBox {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 30%;
+  height: 70%;
+}
+
+.padding20All {
+  padding: 20px;
+}
+
+.marginBottom20 {
+  margin-bottom: 50px;
+}
+
+.marginTop20 {
+  margin-top: 50px;
+}
